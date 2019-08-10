@@ -1,0 +1,292 @@
+
+@media screen and (max-width: 1024px){
+
+.block .content-block{
+    display: none;
+}
+.provide .container .all_info .col-md-6 .img_img{
+    display: none;
+}
+    .provide .container .all_info .info_text .privide_title{
+        width: 700px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .provide .container .all_info .info_text .prov_text{
+        width: 700px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .provide .container .all_info .info_text .btn-learn{
+        display: inline-block;
+        margin-left: 300px;
+        width: 100px;
+        margin-top: 20px;
+        cursor: pointer;
+
+    }
+.line_line{
+    display: none;
+}
+.feature .container .btns .btn_btn{
+    font-size: 10px;
+    width: 100px;
+}
+    .feature .container .all_imgs .col-md-3{
+        max-width: 200px;
+        margin: 0 auto;
+    }
+    .feature .container .all_imgs .col-md-3:last-child{
+        display: none;
+    }
+    .get_touch .container .registration .col-md-6 .windows .inputs .info_info{
+        margin-top: 20px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .more_t{
+        width: 230px;
+
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:  768px){
+    h1{
+        font-size: 25px;
+
+    }
+    .provide .container .all_info .info_text .privide_title{
+        width: 590px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -131px;
+
+    }
+    .provide .container .all_info .info_text .prov_text{
+        width: 500px;
+        text-align: center;
+        margin: 0 auto;
+        margin-left: 35px;
+        margin-top: 30px;
+    }
+    .provide .container .all_info .info_text .btn-learn{
+        margin-left: 238px;
+    }
+    .feature .container .btns {
+        display: flex;
+        flex-direction: column;
+        margin-left: 100px;
+
+    }
+    .feature .container .btns .btn_btn{
+        width: 300px;
+        font-size: 16px;
+    }
+    .feature .container .all_imgs .col-md-3:nth-child(3){
+        display: none;
+    }
+    .bonus .container .boxes{
+        display: flex;
+        flex-direction: column;
+        margin-left: 130px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .more_t{
+        width: 368px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .btn_send{
+        margin-left: 70px;
+        margin-bottom: 30px;
+    }
+    .get_touch .container .registration .tell_number h5 {
+        margin-left: -90px;
+    }
+    .get_touch .container .registration .tell_number .location{
+        margin-left: -94px;
+    }
+    .get_touch .container .registration .tell_number .tell_tell{
+        margin-left: -103px;
+    }
+    .get_touch .container .registration .tell_number .e_mail{
+        margin-left: -94px;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width:  667px){
+   body{
+       overflow-x: hidden;
+   }
+    .homepage{
+        height: auto;
+    }
+.homepage .block .content_block .menu2 .video {
+    width: 370px;
+}
+h1{
+    font-size: 20px;
+}
+.provide .container .all_info .privide_title{
+    width: 200px;
+}
+    .homepage .navbar .container .collapse .navbar-nav{
+        margin-left: 0;
+    }
+}
+
+
+
+
+@media screen and (max-width:  568px){
+    .homepage .block .content_block .menu2 .video {
+        width: 370px;
+        margin-left: -66px;
+    }
+    .provide .container .all_info .info_text .privide_title{
+        width: 387px;
+    }
+    .provide .container .all_info .info_text .prov_text{
+        width: 389px;
+    }
+    .provide .container .all_info .info_text .btn-learn{
+        margin-left: 181px;
+    }
+    .feature .container .btns{
+        margin-left: 51px;
+    }
+    .feature .container .all_imgs{
+        margin-left: -30px;
+    }
+    .bonus .container .boxes{
+        margin-left: 95px;
+        margin-top: -161px;
+    }
+    .subscribe .container .input-block{
+        width: 300px;
+        font-size: 12px;
+    }
+    .get_touch .container .registration .tell_number{
+        margin-left: 31px;
+    }
+}
+
+
+
+@media screen and (max-width:  411px){
+    .homepage .block .content_block .menu2 .video{
+        width: 320px;
+        height: 200px;
+        margin-left: -88px;
+    }
+    .provide .container .all_info .info_text .privide_title{
+        width: 320px;
+    }
+    .provide .container .all_info .info_text .prov_text{
+        width: 320px;
+    }
+    .provide .container .all_info .info_text .btn-learn{
+        margin-left: 138px;
+    }
+    .feature .container .btns{
+        margin-left: 4px;
+    }
+    .bonus .container .boxes{
+        margin-left: 47px;
+    }
+    .subscribe .container .input-block{
+        font-size: 12px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .inputs .info_info{
+        margin-left: 33px;
+        font-size: 12px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .more_t{
+        width: 183px;
+        margin-left: 32px;
+    }
+    .get_touch .container .registration .col-md-6 .windows .btn_send{
+        margin-left: 7px;
+    }
+    .get_touch .container .registration .tell_number .e_mail{
+        margin-left: -98px;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:  360px){
+    .homepage .block .content_block .menu2 .video{
+        width: 280px;
+        margin-left: -101px;
+    }
+    .provide .container .all_info .info_text .privide_title{
+        width: 280px;
+        margin-left: 10px;
+    }
+    .provide .container .all_info .info_text .prov_text{
+        font-size: 12px;
+        width: 250px;
+        margin-left: 10px;
+    }
+    .provide .container .all_info .info_text .btn-learn{
+        margin-left: 78px;
+    }
+   .feature .container .f_text{
+       font-size: 12px;
+   }
+    .feature .container .btns{
+        margin-left: -14px;
+    }
+    .feature .container .btns .btn_btn{
+        width: 270px;
+    }
+    .bonus .container .boxes{
+        margin-left: 8px;
+    }
+    .subscribe .container .info_text{
+        font-size: 12px;
+    }
+    .subscribe .container .input-block{
+        width: 270px;
+    }
+    .get_touch .container .touch_info{
+        font-size: 12px;
+    }
+    .get_touch .container .registration{
+        margin-left: 10px;
+    }
+    .get_touch .container .registration .tell_number{
+        margin-left: 70px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
